@@ -99,7 +99,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       borderRadius: BorderRadius.circular(10)),
                   title: const Text("Add Todo"),
                   content: Container(
-                    width: 200,
+                    width: 400,
                     height: 100,
                     child: Column(
                       children: [
